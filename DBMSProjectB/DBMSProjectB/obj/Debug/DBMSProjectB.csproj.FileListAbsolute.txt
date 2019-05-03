@@ -1,0 +1,14 @@
+C:\Users\rafia\Desktop\DBMSProjectB\DBMSProjectB\DBMSProjectB\bin\Debug\DBMSProjectB.exe.config
+C:\Users\rafia\Desktop\DBMSProjectB\DBMSProjectB\DBMSProjectB\bin\Debug\DBMSProjectB.exe
+C:\Users\rafia\Desktop\DBMSProjectB\DBMSProjectB\DBMSProjectB\bin\Debug\DBMSProjectB.pdb
+C:\Users\rafia\Desktop\DBMSProjectB\DBMSProjectB\DBMSProjectB\obj\Debug\DBMSProjectB.csprojAssemblyReference.cache
+C:\Users\rafia\Desktop\DBMSProjectB\DBMSProjectB\DBMSProjectB\obj\Debug\DBMSProjectB.Dashboard.resources
+C:\Users\rafia\Desktop\DBMSProjectB\DBMSProjectB\DBMSProjectB\obj\Debug\DBMSProjectB.Form1.resources
+C:\Users\rafia\Desktop\DBMSProjectB\DBMSProjectB\DBMSProjectB\obj\Debug\DBMSProjectB.ManageCLO.resources
+C:\Users\rafia\Desktop\DBMSProjectB\DBMSProjectB\DBMSProjectB\obj\Debug\DBMSProjectB.ManageRubrics.resources
+C:\Users\rafia\Desktop\DBMSProjectB\DBMSProjectB\DBMSProjectB\obj\Debug\DBMSProjectB.Properties.Resources.resources
+C:\Users\rafia\Desktop\DBMSProjectB\DBMSProjectB\DBMSProjectB\obj\Debug\DBMSProjectB.Rubric_Level.resources
+C:\Users\rafia\Desktop\DBMSProjectB\DBMSProjectB\DBMSProjectB\obj\Debug\DBMSProjectB.csproj.GenerateResource.cache
+C:\Users\rafia\Desktop\DBMSProjectB\DBMSProjectB\DBMSProjectB\obj\Debug\DBMSProjectB.csproj.CoreCompileInputs.cache
+C:\Users\rafia\Desktop\DBMSProjectB\DBMSProjectB\DBMSProjectB\obj\Debug\DBMSProjectB.exe
+C:\Users\rafia\Desktop\DBMSProjectB\DBMSProjectB\DBMSProjectB\obj\Debug\DBMSProjectB.pdb
